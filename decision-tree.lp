@@ -41,7 +41,7 @@ applicable(t2_2,non(ai_system)) :-
         machine_learning_approximating;
         machine_learning_optimizing;
         machine_learning_maintainig_performance;
-        machine_learning_models_for_prediction
+        machine_learning_models_for_prediction;
         basic_data_processing;
         basic_data_descripting;
         basic_data_hypotesis_test;
@@ -51,14 +51,14 @@ applicable(t2_2,non(ai_system)) :-
         pattern_recognition;
         data_processing_learning;
         basic_statistical_learning;
-        static_estimation system).
+        static_estimation_system).
 
 superior(t2_2,t2_1).
 constitutiveRule(t2_3,ai_system).
 applicable(t2_3,ai_system) :-
     defeasible(
         autonomous;
-        adaptive
+        adaptive;
         intended_purpose;
         inferencing;
         influence_physical_or_virtual_environments;
@@ -96,7 +96,7 @@ applicable(t10_6,general_purpose_ai) :-
     defeasible(multiple_tasks),
     defeasible(large_data).
 
-superior((t10_1;t10_6),t10)
+superior((t10_1;t10_6),t10).
 
 prescriptiveRule(t10_2,(article53_1;annex_xi_sec1;annex_xii)).
 applicable(t10_2,(article53_1;annex_xi_sec1;annex_xii)) :-
