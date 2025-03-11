@@ -1,0 +1,34 @@
+Annex VIII outlines the information required for the registration of high-risk AI systems under Article 49, divided into three sections:
+
+Section A — Providers (Article 49(1)):
+1. Provider's name, address, and contact details.
+2. Contact information of any representative submitting on behalf of the provider.
+3. Details of the authorized representative, if applicable.
+4. AI system trade name and identification references.
+5. Description of the AI system's intended purpose and functions.
+6. Overview of the information used and the operating logic.
+7. Status of the AI system (e.g., on the market, recalled).
+8. Certificate details from the notified body, including type, number, and expiry date.
+9. Scanned copy of the certificate, if applicable.
+10. Member States where the AI system is available.
+11. Copy of the EU declaration of conformity.
+12. Electronic instructions for use, with exceptions for certain areas.
+13. Optional URL for additional information.
+
+Section B — Providers (Article 49(2)):
+1. Provider's name, address, and contact details.
+2. Information for any representative submitting on behalf of the provider.
+3. Authorized representative details, if applicable.
+4. AI system trade name and identification references.
+5. Description of the AI system's intended purpose.
+6. Conditions under which the AI system is deemed not high-risk.
+7. Summary of grounds for the not high-risk designation.
+8. Status of the AI system.
+9. Member States where the AI system is available.
+
+Section C — Deployers (Article 49(3)):
+1. Deployer's name, address, and contact details.
+2. Contact information of the person submitting on behalf of the deployer.
+3. URL linking to the AI system entry in the EU database.
+4. Summary of the fundamental rights impact assessment findings.
+5. Summary of the data protection impact assessment results, where applicable.

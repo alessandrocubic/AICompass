@@ -1,0 +1,7 @@
+Article 11: Technical Documentation
+
+1. Documentation Requirements: Before placing a high-risk AI system on the market or using it, comprehensive technical documentation must be created and kept up to date. This documentation should demonstrate compliance with relevant requirements and provide clear information for assessment by authorities and notified bodies, including the elements specified in Annex IV.
+
+2. Combined Documentation: If the high-risk AI system is related to a product covered by Union harmonisation legislation, a single set of documentation must be prepared, incorporating information from both this regulation and those legal acts.
+
+3. Delegated Authority: The Commission may adopt delegated acts to amend Annex IV as necessary, ensuring the technical documentation aligns with advancements in technology.

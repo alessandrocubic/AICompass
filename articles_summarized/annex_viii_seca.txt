@@ -1,0 +1,15 @@
+Annex VIII outlines the information required for registering high-risk AI systems under Article 49:
+
+1. Provider’s name, address, and contact details.
+2. Details of any person submitting information on behalf of the provider.
+3. Authorized representative’s information, if applicable.
+4. AI system trade name and identification details.
+5. Description of the system’s purpose, components, and supported functions.
+6. Basic description of data used and the system's operating logic.
+7. AI system status (market, service, recalled).
+8. Certification details, including notified body info.
+9. Scanned copy of the certificate, if applicable.
+10. EU countries where the system is available.
+11. Copy of the EU declaration of conformity.
+12. Electronic instructions (except for certain areas like law enforcement).
+13. Optional URL for additional information.

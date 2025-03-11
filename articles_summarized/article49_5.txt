@@ -1,0 +1,1 @@
+The obligation specified in this article requires that high-risk AI systems identified in point 2 of Annex III must be registered at the national level. This registration process ensures that these systems are documented and monitored according to the regulations applicable within each Member State, enhancing oversight and accountability for high-risk AI applications.

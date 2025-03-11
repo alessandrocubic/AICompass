@@ -1,0 +1,9 @@
+sArticle 12: Record-Keeping Summary
+
+High-risk AI systems must have the capability to automatically log events throughout their lifecycle for traceability. Logging should include:
+
+1. Event Identification: Capture situations that may present risks or substantial modifications.
+2. Post-Market Monitoring: Support post-market monitoring processes.
+3. Operational Monitoring: Track system operations.
+
+For specific high-risk AI systems, logs must include usage periods, reference databases, matched input data, and identification of individuals verifying results.

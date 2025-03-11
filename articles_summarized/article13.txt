@@ -1,0 +1,10 @@
+Article 13: Transparency and Provision of Information to Deployers mandates the following obligations: 
+
+High-risk AI systems must be designed for transparency, enabling deployers to interpret their outputs effectively. Each system should be accompanied by clear and accessible instructions that include:
+
+1. Provider contact information and details.
+2. System characteristics, including intended purpose, performance metrics, limitations, and known risks.
+3. Technical specifications and guidance for interpreting outputs.
+4. Any predetermined changes and necessary human oversight measures.
+5. Required resources, expected lifespan, and maintenance guidelines.
+6. Mechanisms for collecting and interpreting system logs.

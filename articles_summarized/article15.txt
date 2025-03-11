@@ -1,0 +1,10 @@
+Article 15: Accuracy, Robustness, and Cybersecurity mandates the following obligations: 
+
+High-risk AI systems must be designed to ensure appropriate levels of accuracy, robustness, and cybersecurity throughout their lifecycle. Key points include:
+
+1. Design Requirements: AI systems should perform consistently regarding accuracy and robustness.
+2. Measurement Standards: The Commission will collaborate with stakeholders to develop benchmarks and methodologies for assessing performance metrics.
+3. Instruction Transparency: Levels of accuracy and relevant metrics must be included in the user instructions.
+4. Error Resilience: Systems should be resilient to errors and faults, employing technical redundancies and fail-safe plans to mitigate risks.
+5. Learning Mechanisms: AI systems that continue to learn post-deployment must minimise risks of biased outputs affecting future operations.
+6. Cybersecurity Measures: Strong protections must be in place against unauthorised attempts to manipulate the system, with technical solutions addressing vulnerabilities like data poisoning and adversarial attacks.

@@ -1,0 +1,16 @@
+Annex XI, Section 1 outlines the technical documentation required for providers of general-purpose AI models under Article 53(1)(a). The documentation must include:
+
+1. General Description of the AI Model:
+   - Intended tasks and integration capabilities with AI systems.
+   - Applicable acceptable use policies.
+   - Release date and distribution methods.
+   - Architecture and number of parameters.
+   - Input and output modalities and formats.
+   - Licensing information.
+
+2. Detailed Description of the Model:
+   - Technical means for integration (e.g., instructions, infrastructure).
+   - Design specifications, training process, methodologies, and key design choices.
+   - Information on training, testing, and validation data, including provenance and curation methods.
+   - Computational resources used, training time, and relevant details.
+   - Known or estimated energy consumption of the model, or estimated based on computational resources if unknown.

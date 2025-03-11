@@ -1,0 +1,11 @@
+article72_4
+
+Post-market monitoring by providers and post-market monitoring plan for high-risk AI systems
+
+ Providers shall establish and document a post-market monitoring system in a manner that is proportionate to the nature of the AI technologies and the risks of the high-risk AI system.
+
+For high-risk AI systems where a post-market monitoring system and plan are already established under an EU legislation, in order to ensure consistency, avoid duplications and minimise additional burdens, providers shall have a choice of integrating, as appropriate, the necessary elements into systems and plans already existing under that legislation, provided that it achieves an equivalent level of protection.
+
+The necessary elements are:
+
+collecting, documenting and analysing relevant data which may be provided by deployers or which may be collected through other sources on the performance of high-risk AI systems throughout their lifetime, and which allow the provider to evaluate the continuous compliance of AI systems with the requirements set out in the AI Act

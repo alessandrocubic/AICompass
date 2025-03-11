@@ -1,0 +1,25 @@
+Annex IV outlines the technical documentation requirements for AI systems as per Article 11(1), detailing the necessary information to ensure compliance and transparency. It includes:
+
+1. General AI System Description: Information on the system's purpose, version history, compatibility with hardware or software, distribution formats, hardware requirements, user interface, and instructions for use.
+
+2. System Development Process: Detailed steps taken during the AI system’s development, including use of third-party tools, design choices, system architecture, data sources and training methodologies, and any pre-trained systems integrated.
+
+3. Human Oversight: An assessment of measures required for human oversight, focusing on how the system’s outputs can be understood by users and how it aligns with Article 14.
+
+4. Testing and Validation: Information on the testing and validation procedures, data used, accuracy metrics, robustness, potential discrimination, and cybersecurity measures.
+
+5. System Monitoring and Control: Insights into system performance, accuracy, foreseeable risks, and unintended outcomes. This section also includes measures for human oversight and details on data inputs.
+
+6. Performance Metrics: Description of the metrics used to assess the system's performance.
+
+7. Risk Management: An outline of the risk management strategies as required by Article 9.
+
+8. Lifecycle Changes: Documentation of any modifications made to the AI system over time.
+
+9. Standards Compliance: A list of standards followed, and where none were used, the alternative methods employed to meet requirements.
+
+10.EU Declaration of Conformity: A copy of the declaration in line with Article 47.
+
+11. Post-Market Monitoring: A plan to monitor the system’s performance after it enters the market, in line with Article 72, including provisions for ongoing oversight.
+
+This documentation ensures that AI systems meet regulatory standards and continue to perform safely and ethically throughout their lifecycle.

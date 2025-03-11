@@ -1,0 +1,1 @@
+Article 43(2) specifies that for high-risk AI systems identified in points 2 to 8 of Annex III, providers must adhere to a conformity assessment procedure grounded in internal control, as outlined in Annex VI. This procedure is distinct in that it does not require the involvement of a notified body, allowing providers to independently manage compliance without external oversight.

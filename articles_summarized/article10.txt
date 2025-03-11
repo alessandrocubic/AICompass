@@ -1,0 +1,35 @@
+Data and Data Governance mandates that: 
+
+1. Quality Standards: High-risk AI systems using training, validation, and testing data must meet specific quality criteria.
+
+Role: Data Scientist
+
+2. Data Governance: Data sets must follow management practices that ensure:
+   - Appropriate design and collection processes.
+   - Assessment of data origin and purpose, especially for personal data.
+   - Data preparation operations (e.g., annotation, cleaning).
+   - Assumptions about data representation.
+   - Evaluation of data availability and suitability.
+   - Bias examination to prevent negative impacts on health, safety, or fundamental rights.
+   - Measures for bias detection and correction.
+   - Identification of data gaps and strategies to address them.
+
+Role : Lead Data Scientist
+
+3. Data Characteristics: Data sets should be relevant, representative, error-free, and complete, reflecting the intended population.
+
+Role: Data Scientist
+
+4. Contextual Considerations: Data sets must account for geographical and contextual specifics relevant to their intended use.
+
+Role: Data Scientist
+
+5. Processing Personal Data: Providers may process special categories of personal data for bias detection if:
+   - Other data cannot fulfil this purpose.
+   - Strong security and privacy measures are in place.
+   - Data is not shared with unauthorised parties.
+   - Data is deleted after bias correction or upon reaching retention limits.
+
+Role: Lead Data Scientist
+
+6. Limited Applicability: For high-risk AI systems not involving model training, the governance provisions apply only to testing data sets.

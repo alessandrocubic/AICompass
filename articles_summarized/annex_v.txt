@@ -1,0 +1,12 @@
+Annex V outlines the contents of the EU declaration of conformity under Article 47, which includes:
+
+1. AI System Identification: Name, type, and traceable reference.
+2. Provider Details: Name and address of the provider or authorised representative.
+3. Responsibility Statement: Confirmation that the declaration is under the provider’s sole responsibility.
+4. Regulatory Compliance**: Statement confirming the AI system complies with relevant regulations.
+5. Data Protection: Confirmation of compliance with EU data protection laws if personal data is processed.
+6. Standards Used: References to any relevant standards or specifications.
+7. Notified Body: Details of the conformity assessment, if applicable.
+8. Signatory Information: Place, date, signatory name, and signature.
+
+This ensures the AI system meets EU regulatory standards.

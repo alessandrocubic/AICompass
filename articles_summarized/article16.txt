@@ -1,0 +1,16 @@
+Article 16: Obligations of Providers of High-Risk AI Systems creates the following obligations upon the providers of high-risk AI systems: 
+
+Providers of high-risk AI systems must:
+
+1. Ensure Compliance: Adhere to the requirements outlined in Section 2.
+2. Identify Themselves: Display their name, trade name, or trademark, and contact information on the system or its packaging.
+3. Implement Quality Management: Establish a quality management system per Article 17.
+4. Maintain Documentation: Keep the documentation specified in Article 18.
+5. Manage Logs: Retain automatically generated logs of the AI systems they control, as outlined in Article 19.
+6. Conformity Assessment: Ensure the system undergoes the necessary conformity assessment before being marketed or deployed.
+7. EU Declaration of Conformity: Prepare an EU declaration of conformity according to Article 47.
+8. Affix CE Marking: Indicate conformity by affixing the CE marking to the system or its packaging, as per Article 48.
+9. Meet Registration Obligations: Comply with registration requirements in Article 49(1).
+10. Take Corrective Actions: Implement required corrective measures and provide necessary information as described in Article 20.
+11. Demonstrate Conformity: Prove compliance with requirements upon request from a national authority.
+12. Ensure Accessibility: Meet accessibility standards as mandated by Directives (EU) 2016/2102 and (EU) 2019/882.

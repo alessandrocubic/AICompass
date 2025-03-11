@@ -1,0 +1,5 @@
+article8
+
+Compliance
+
+High-risk AI systems shall comply with the requirements laid by the AI Act, taking into account their intended purpose as well as the generally acknowledged state of the art on AI and AI-related technologies.

@@ -1,0 +1,5 @@
+Article 11: Technical Documentation
+
+1. Requirements: High-risk AI systems must have up-to-date technical documentation before market placement or service use.
+
+2. SME Provisions**: Small and micro enterprises (SMEs) can submit simplified documentation using a form provided by the Commission, which must be accepted by notified bodies for conformity assessment.

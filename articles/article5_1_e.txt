@@ -1,0 +1,5 @@
+article5_1_e
+
+1.   The following AI practices shall be prohibited:
+
+(e)the placing on the market, the putting into service or the use of AI systems that create or expand facial recognition databases through the untargeted scraping of facial images from the internet or CCTV footage

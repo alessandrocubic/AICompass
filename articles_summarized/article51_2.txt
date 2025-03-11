@@ -1,0 +1,1 @@
+A general-purpose AI model is presumed to possess high impact capabilities if the total computation utilized for its training exceeds 10251025 floating point operations. This presumption indicates that such a level of computational power is associated with significant capabilities and potential effects in various applications.

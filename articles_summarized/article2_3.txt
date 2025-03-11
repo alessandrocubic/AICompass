@@ -1,0 +1,4 @@
+Article 2(3) states that this regulation does not apply to AI systems that are:
+
+1. Exclusively placed on the market, put into service, or used for military, defence, or national security purposes, regardless of the entity involved.
+2. Not marketed or used within the Union but whose outputs are utilised for military, defence, or national security purposes within the Union, regardless of the entity involved.

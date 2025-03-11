@@ -1,0 +1,8 @@
+Annex VII describes the conformity assessment procedure that involves both the evaluation of the quality management system (QMS) and the technical documentation:
+
+1. Overview: The provider’s QMS for AI systems, as specified in Article 17, is reviewed and monitored, while the technical documentation is also assessed for compliance.
+2. Quality Management System: Providers must submit an application that details their QMS, which is evaluated by a notified body. The QMS needs to be kept effective, and any changes must be reviewed and approved by the notified body.
+3. Technical Documentation: The technical documentation is examined by the notified body, which may request additional evidence or testing. If the AI system meets the requirements, a Union technical documentation assessment certificate is granted.
+4. Surveillance: Regular audits are carried out by the notified body to ensure the provider is adhering to the approved QMS, and additional testing of AI systems may be conducted when needed.
+
+This procedure ensures that AI systems comply with the necessary regulatory standards.

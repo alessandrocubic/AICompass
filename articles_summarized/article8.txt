@@ -1,0 +1,1 @@
+Article 8 mandates that high-risk AI systems must adhere to the requirements outlined in the AI Act, considering their intended purpose and the recognised state of the art in AI and related technologies.

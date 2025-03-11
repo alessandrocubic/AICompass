@@ -1,0 +1,17 @@
+Article 10.6 outlines data governance requirements for developing high-risk AI systems that do not involve training AI models. Key points include:
+
+1. Data Sets: The testing data sets must be relevant, representative, and as error-free as possible, with appropriate statistical properties.
+
+2. Conditions for Data Handling:
+   - Document design choices, data collection processes, and origins.
+   - Address data preparation operations, such as cleaning and annotation.
+   - Assess data availability and suitability.
+   - Identify and mitigate biases that could affect health, safety, or fundamental rights.
+   - Identify data gaps and strategies to address them.
+
+3. Processing Personal Data: Providers may process special categories of personal data for bias detection and correction, provided:
+   - Other data cannot fulfil this purpose.
+   - Data security and privacy measures are implemented.
+   - Data is not shared and is deleted once biases are corrected or after the retention period.
+
+4. Compliance: All processing must comply with relevant EU regulations regarding personal data protection.

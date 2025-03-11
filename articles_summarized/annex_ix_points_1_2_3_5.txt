@@ -1,0 +1,11 @@
+Annex IX outlines the information required for registering and maintaining updates on real-world testing of AI systems, in line with Article 60. The required details include:
+
+1. Unique Identification Number: A single, Union-wide identification number assigned to the real-world testing instance.
+   
+2. Provider and Deployer Information: Names and contact details of the provider (or prospective provider) and any deployers involved in the testing process.
+
+3. AI System Description: A brief overview of the AI system, its intended purpose, and any other necessary information to clearly identify the system.
+
+5. Testing Suspension or Termination: Information regarding the suspension or termination of the real-world testing.
+
+This information ensures traceability and transparency throughout the testing phase of AI systems.

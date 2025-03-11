@@ -1,0 +1,13 @@
+Article 9 mandates that high-risk AI systems have a comprehensive risk management system that includes:
+
+1. Continuous Process: Establish, document, and maintain a risk management system throughout the AI system's lifecycle.
+
+2. Risk Assessment Steps:
+   - Identify and analyze foreseeable risks.
+   - Estimate risks from intended use and misuse.
+   - Evaluate additional risks from post-market data.
+   - Implement targeted risk mitigation measures.
+
+3. Testing: Systems must be tested for compliance and consistent performance, including real-world conditions.
+
+4. Vulnerable Groups: Consider potential impacts on individuals under 18 and other vulnerable groups in the risk management process.

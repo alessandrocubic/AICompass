@@ -1,0 +1,3 @@
+Article 14(5): Human Oversight
+
+For high-risk AI systems identified in Annex III, any action or decision based on the system's identification must be verified by at least two qualified individuals before implementation. This requirement does not apply to AI systems used in law enforcement, migration, border control, or asylum if compliance is deemed disproportionate by Union or national law.

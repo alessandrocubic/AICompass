@@ -1,0 +1,9 @@
+Article 14: Human Oversight
+
+High-risk AI systems must be designed for effective human oversight to minimise risks to health, safety, or fundamental rights during their use. Oversight measures should correspond to the system's risks, autonomy, and context, and can be implemented by providers or deployers. Deployed systems must enable users to:
+
+- Understand their capabilities and limitations.
+- Monitor operations to identify anomalies.
+- Recognise and mitigate automation bias.
+- Interpret outputs accurately.
+- Decide to override or halt the system's operation if necessary.

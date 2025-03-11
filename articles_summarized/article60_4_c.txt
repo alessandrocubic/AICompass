@@ -1,0 +1,9 @@
+Providers or prospective providers conducting testing of high-risk AI systems in real-world conditions outside regulatory sandboxes must fulfill several key conditions. Firstly, they must develop and submit a real-world testing plan to the market surveillance authority in the Member State where the testing will occur. The authority must approve this plan; if there is no response within 30 days, it is automatically deemed approved unless local law dictates otherwise.
+
+Additionally, providers must register the testing with a Union-wide unique identification number and specific information as outlined in Annex IX. Those involved in law enforcement, migration, asylum, and border control management must register their testing in a secure, non-public section of the EU database, following the protocols set forth in Article 49(4)(d) or Article 49(5) depending on their AI system's classification.
+
+The testing provider must be established in the Union or have appointed a legal representative within the Union. Data collected during the testing can only be transferred to third countries if appropriate safeguards are in place according to Union law.
+
+The duration of the testing should not exceed six months, with a possible extension of another six months after notifying the market surveillance authority. Vulnerable groups involved in testing must be appropriately protected.
+
+Providers must inform any cooperating deployers about the testing's relevant aspects, ensuring that informed consent is obtained from subjects unless it would hinder the testing; in such cases, participants' data must be deleted post-testing. The testing process must be overseen effectively by qualified personnel, and any AI system outputs must be reversible and disregarded as needed.

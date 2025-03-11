@@ -1,0 +1,7 @@
+Annex XII outlines the transparency information that providers of general-purpose AI models must supply to downstream providers integrating the model into their AI systems:
+
+1. General Description of the AI Model:
+   - This includes the intended tasks, acceptable use policies, release date, distribution methods, interaction with non-model hardware/software, relevant software versions, model architecture, number of parameters, input/output modalities and formats, and the model license.
+
+2. Model Development Description:
+   - This includes the technical means necessary for integration, details about the inputs/outputs (including maximum size), and information about the training, testing, and validation data used, including its type, provenance, and curation methodologies.

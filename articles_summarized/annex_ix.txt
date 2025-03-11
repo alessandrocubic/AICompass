@@ -1,0 +1,9 @@
+Annex IX outlines key details required for registering real-world AI testing under Article 60:
+
+1. Unique ID: A Union-wide identification number for the testing.
+2. Provider/Deployer Info: Contact details of the provider and deployers.
+3. AI System Overview: Brief description and intended purpose of the AI system.
+4. Testing Plan Summary: Main points of the testing plan.
+5. Testing Status: Information on any suspension or termination of the testing.
+
+This ensures transparency and traceability during AI system testing.

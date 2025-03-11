@@ -1,0 +1,1 @@
+Article 5(1)(d) prohibits the use of AI systems for risk assessments of individuals to predict criminal behavior based solely on profiling or personality traits. However, this prohibition does not apply to AI systems that support human assessments of a person's involvement in criminal activity based on objective and verifiable facts.

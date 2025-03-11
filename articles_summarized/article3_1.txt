@@ -1,0 +1,1 @@
+Article 3(1) defines an "AI system" as a machine-based system designed to operate with varying autonomy, capable of adapting after deployment. It generates outputs, such as predictions or decisions, based on the input received, which can influence physical or virtual environments.

@@ -1,0 +1,11 @@
+Annex VIII Section B outlines the information required for registering AI systems deemed not-high-risk under Article 49(2):
+
+1. Provider’s name, address, and contact details.
+2. Details of any person submitting information on behalf of the provider.
+3. Authorised representative’s information, if applicable.
+4. AI system trade name and identification details.
+5. Description of the system’s intended purpose.
+6. Conditions under Article 6(3) that classify the system as not-high-risk.
+7. Summary of grounds for the not-high-risk classification under Article 6(3).
+8. AI system status (market, service, recalled).
+9. EU countries where the system is available.

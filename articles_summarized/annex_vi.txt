@@ -1,0 +1,8 @@
+Annex VI outlines the conformity assessment procedure based on internal control, which includes:
+
+1. Overview: The procedure follows points 2, 3, and 4.
+2. Quality Management: The provider ensures the quality management system meets Article 17 requirements.
+3. Technical Documentation Review: The provider assesses the AI system’s compliance with essential requirements by examining technical documentation.
+4. Design and Monitoring Verification: The provider ensures the AI system's design, development, and post-market monitoring align with the technical documentation.
+
+This procedure ensures internal control over AI system compliance.

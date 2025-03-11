@@ -1,0 +1,19 @@
+Annex III outlines areas where AI systems are considered high-risk due to their potential impact on fundamental rights, safety, and well-being. These areas include:
+
+1. Biometrics**: AI systems used for identifying or categorizing people based on sensitive attributes or emotions. This excludes basic verification systems confirming identity.
+   
+2. Critical Infrastructure: AI systems involved in managing crucial services like traffic control, water, energy, and digital infrastructure to ensure safety.
+
+3. Education and Vocational Training: AI systems used to determine admissions, evaluate learning outcomes, and monitor student behavior during exams.
+
+4. Employment: AI systems used for recruitment, job performance monitoring, and decisions related to employment terms, promotions, or dismissals.
+
+5. **Essential Services**: AI systems evaluating eligibility for public benefits like healthcare or creditworthiness, and emergency services prioritization.
+
+6. Law Enforcement: AI systems used in crime prevention, evidence assessment, and profiling individuals based on risk factors related to criminal behavior.
+
+7. Migration and Border Control: AI systems assessing risks related to security, migration, health, or assisting authorities in decisions about asylum, visas, and permits.
+
+8. Judicial and Democratic Processes: AI systems assisting judicial authorities in legal research, or influencing election outcomes and voter behavior.
+
+These AI systems are regulated because of their far-reaching impact on societal structures and individual rights.

@@ -1,0 +1,7 @@
+Annex VIII Section C specifies the information that deployers of high-risk AI systems must provide for registration under Article 49(3):
+
+1. Name, address, and contact details of the deployer.
+2. Contact information for the person submitting information on behalf of the deployer.
+3. URL linking to the AI system entry in the EU database by its provider.
+4. Summary of the fundamental rights impact assessment findings conducted per Article 27.
+5. Summary of the data protection impact assessment results as per Article 35 of Regulation (EU) 2016/679 or Article 27 of Directive (EU) 2016/680, where applicable.

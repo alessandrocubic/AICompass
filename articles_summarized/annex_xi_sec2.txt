@@ -1,0 +1,10 @@
+Annex XI, Section 2 specifies additional information that providers of general-purpose AI models with systemic risk must provide:
+
+1. Evaluation Strategies:
+   - A detailed description of evaluation strategies and results based on public evaluation protocols or other methodologies. This includes evaluation criteria, metrics, and methodologies for identifying limitations.
+
+2. Adversarial Testing Measures:
+   - A detailed description of measures for internal and/or external adversarial testing (e.g., red teaming) and model adaptations, such as alignment and fine-tuning.
+
+3. System Architecture:
+   - A detailed description of the system architecture, explaining how software components interact and integrate within the overall processing framework.

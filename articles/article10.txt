@@ -1,0 +1,52 @@
+Data and Data Governance
+
+High-risk AI systems which make use of techniques involving the training of AI models with data shall be developed on the basis of training, validation, and testing datasets that meet the quality criteria referred to in paragraphs 2 to 5 whenever such datasets are used.
+
+Role: Data Scientist
+
+Training, validation, and testing datasets shall follow data governance and management practices suitable for the intended purpose of the high-risk AI system. These practices must address:
+
+(a) Relevant design choices;
+(b) Data collection processes and origin, including the original purpose of personal data collection;
+(c) Data preparation processes, such as annotation, labeling, cleaning, updating, enrichment, and aggregation.
+
+Role: Lead Data Scientist
+
+(d) The formulation of assumptions, particularly regarding the information that data are expected to measure and represent.
+(e) An assessment of the availability, quantity, and suitability of required datasets.
+
+Role: Data Scientist
+
+(f) An examination in view of possible biases that could affect health and safety, impact fundamental rights, or lead to discrimination prohibited under Union law, especially when data outputs influence future inputs.
+Role: Lead Data Scientist
+
+(g) Implementing measures to detect, prevent, and mitigate any identified biases according to point (f).
+Role: Lead Data Scientist
+
+(h) Identifying data gaps or shortcomings that could affect compliance with this Regulation, and determining ways to address these gaps or shortcomings.
+Role: Data Scientist
+
+Training, validation, and testing datasets must be relevant, sufficiently representative, and as error-free and complete as possible for their intended purpose. These datasets should have appropriate statistical properties, especially in relation to the persons or groups for whom the high-risk AI system is intended.
+Role: Data Scientist
+
+Datasets should also account for characteristics or elements specific to the geographical, contextual, behavioral, or functional setting where the high-risk AI system will be used.
+Role: Data Scientist
+
+To ensure bias detection and correction in line with paragraph (2), points (f) and (g) of this Article, providers of high-risk AI systems may exceptionally process special categories of personal data, with safeguards in place for fundamental rights and freedoms. Additional conditions are as follows:
+
+(a) Bias detection and correction cannot be fulfilled by processing other data, including synthetic or anonymized data.
+Role: Lead Data Scientist
+
+(b) Special categories of personal data must have technical limitations on re-use, with security and privacy-preserving measures like pseudonymization in place.
+(c) Only authorized individuals can access these data, ensuring confidentiality and strict access controls.
+Role: Lead Data Scientist
+
+(d) Special categories of personal data must not be transmitted, transferred, or accessed by other parties.
+(e) These data must be deleted once the bias is corrected or upon reaching the end of their retention period.
+Role: Data Scientist
+
+(f) Records of processing activities, per Regulations (EU) 2016/679 and (EU) 2018/1725 and Directive (EU) 2016/680, should document why processing special categories of data was strictly necessary to detect and correct biases, and why the objective could not be met using other data.
+Role: Data Scientist
+
+For high-risk AI systems not using techniques involving the training of AI models, paragraphs 2 to 5 apply only to the testing datasets.
+Role: Lead Data Scientist

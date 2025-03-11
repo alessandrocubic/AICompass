@@ -1,0 +1,1 @@
+Article 5(1)(g) prohibits the placing on the market or use of biometric categorization systems that classify individuals based on their biometric data to infer sensitive attributes like race, political beliefs, or sexual orientation. However, this prohibition does not apply to labeling or filtering lawful biometric datasets in law enforcement contexts.
