@@ -67,8 +67,24 @@ applicable(t2_3,ai_system) :-
 
 superior(t2_3,t2_2).
 
+%% New guidelines HOTFIX
+
+constitutiveRule(t2_4,ai_system).
+applicable(t2_4,ai_system) :-
+    defeasible(
+        deep_learning;
+        supervised_learning;
+        natural_language_processing;
+        unsupervised_learning;
+        self_supervised_learning;
+        reinforcement_learning).
+
+
+superior(t2_4,t2_2).
+
+
 hasSource(
-    (t2_2;t2_3),(article3_1;recital12)
+    (t2_2;t2_3;t2_4),(article3_1;recital12;)
 ).
 
 %% general purpose AI t10

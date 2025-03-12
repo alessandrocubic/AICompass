@@ -17,10 +17,35 @@ atom(simulation_and_modelling).
 atom(basic_recommendation_system).
 atom(data_processing_tool).
 atom(traditional_software_application).
-atom(others_coming_soon).
 atom(autonomous).
 atom(adaptive).
 atom(one_module).
+
+
+%% New regulations NON AI Systems
+atom(traditional_software_systems).
+atom(linear_regression_methods).  %%
+atom(logistic_regression_methods).  
+atom(machine_learning_approximating).  
+atom(machine_learning_optimizing).  
+atom(machine_learning_maintainig_performance).  
+atom(machine_learning_models_for_prediction).  
+atom(basic_data_processing).  
+atom(basic_data_descripting).  
+atom(basic_data_hypotesis_test).  
+atom(basic_data_visualization).  
+atom(classical_heuristics).  
+atom(trial_and_error).
+atom(pattern_recognition).  
+atom(data_processing_learning).  
+atom(basic_statistical_learning).  
+atom(static_estimation_system).
+atom(logic_and_knowledge_approach). %% Not sure
+
+%% New regulations AI Systems
+atom(deep_learning).
+atom(supervised_learning). %%
+
 
 %% vocabulary GPAI
 atom(general_purpose_ai).
