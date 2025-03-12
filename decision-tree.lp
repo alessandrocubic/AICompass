@@ -67,6 +67,11 @@ applicable(t2_3,ai_system) :-
 
 superior(t2_3,t2_2).
 
+hasSource(
+    (t2_2;t2_3),(article3_1;recital12;guideline13;guideline42;guideline43;guideline46;guideline47;guideline48;guideline49;guideline50;guideline51)
+  
+).
+
 %% New guidelines HOTFIX
 
 constitutiveRule(t2_4,ai_system).
@@ -82,6 +87,9 @@ applicable(t2_4,ai_system) :-
 
 
 superior(t2_4,t2_2).
+hasSource(
+    (t2_4,t2_2),(article3_1;recital12;guideline38;guideline33;guideline25;guideline27;guideline52;guideline39)
+).
 
 
 hasSource(

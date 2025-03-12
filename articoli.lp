@@ -74,4 +74,21 @@ articolo(annex_xi_sec1).
 articolo(annex_xi_sec2).
 articolo(annex_xii).
 
+guidelines(guideline13).
+guidelines(guideline25).
+guidelines(guideline25).
+guidelines(guideline33).
+guidelines(guideline38).
+guidelines(guideline39).
+guidelines(guideline42).
+guidelines(guideline43).
+guidelines(guideline46).
+guidelines(guideline47).
+guidelines(guideline48).
+guidelines(guideline49).
+guidelines(guideline50).
+guidelines(guideline51).
+guidelines(guideline52).
+
 atom(X) :- articolo(X).
+atom(X) :- guidelines(X).
