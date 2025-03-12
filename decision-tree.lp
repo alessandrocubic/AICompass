@@ -77,7 +77,8 @@ applicable(t2_4,ai_system) :-
         natural_language_processing;
         unsupervised_learning;
         self_supervised_learning;
-        reinforcement_learning).
+        reinforcement_learning;
+        logic_and_knowledge_approach).
 
 
 superior(t2_4,t2_2).

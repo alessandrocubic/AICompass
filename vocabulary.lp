@@ -24,7 +24,7 @@ atom(one_module).
 
 %% New regulations NON AI Systems
 atom(traditional_software_systems).
-atom(linear_regression_methods).  %%
+atom(linear_regression_methods).
 atom(logistic_regression_methods).  
 atom(machine_learning_approximating).  
 atom(machine_learning_optimizing).  
@@ -40,11 +40,11 @@ atom(pattern_recognition).
 atom(data_processing_learning).  
 atom(basic_statistical_learning).  
 atom(static_estimation_system).
-atom(logic_and_knowledge_approach). %% Not sure
 
 %% New regulations AI Systems
 atom(deep_learning).
-atom(supervised_learning). %%
+atom(supervised_learning).
+atom(logic_and_knowledge_approach).
 
 
 %% vocabulary GPAI
